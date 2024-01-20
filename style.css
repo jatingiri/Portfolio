@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+.name{
+    font-family: 'Cookie', cursive;
+}
+.book{
+    margin-left: 45%;
+    
+}
+.work{
+    margin-left: 45%;
+    
+    text-decoration: solid;
+}
+.work1{
+    margin-left: 45%;
+
+}
+header{
+    border: dashed 2px green;
+}
+body{
+    background-color: rgb(18, 17, 20);
+    color:white;
+}
