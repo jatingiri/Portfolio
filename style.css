@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
 .name{
-    font-family: 'Cookie', cursive;
+    font-family: 'Rubik Burned', system-ui;
 }
 .book{
     margin-left: 45%;
@@ -15,9 +15,7 @@
     margin-left: 45%;
 
 }
-header{
-    border: dashed 2px green;
-}
+
 body{
     background-color: rgb(18, 17, 20);
     color:white;
